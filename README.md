@@ -1,16 +1,26 @@
-## Hi there 👋
+# Zeyad 
 
-<!--
-**GhostMate114/GhostMate114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"To create from nothing."*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About  
+- Computer Science student at **Zewail University of Science and Technology**  
+- Currently focused on **Java** and software foundations  
+- I build, I edit, I animate, I compose - all under the same pursuit: **creation**  
+
+---
+
+### 🛠 Areas of Work  
+- **Programming** – Java, problem-solving 
+- **Artistic Expression** – Animation, music production, editing  
+- **Exploration** – Always learning, always refining  
+
+---
+
+### 📌 Mission    
+**to create from nothing, and to leave something that endures.**  
+---
+
+### 📊 Presence  
+![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=false&hide_title=true&hide_rank=true&hide=prs,issues,contribs&count_private=true&theme=transparent)  
