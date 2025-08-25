@@ -23,4 +23,11 @@
 ---
 
 ### 📊 Presence  
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhostMate114&show_icons=false&hide_title=true&hide_rank=true&hide=prs,issues,contribs&count_private=true&theme=transparent)  
+![Stats](https://github-readme-stats.vercel.app/api?username=GhostMate114&show_icons=false&hide_title=true&hide_rank=true&hide=prs,issues,contribs&count_private=true&theme=transparent)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostMate114&layout=compact&theme=transparent&hide_title=true)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=GhostMate114&theme=github-compact&hide_border=true)
+
+
+
