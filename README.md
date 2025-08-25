@@ -19,7 +19,7 @@
 ---
 
 ### 📌 Mission    
-**to create from nothing, and to leave something that endures.**  
+**Where nothing stood, something timeless shall.**  
 ---
 
 ### 📊 Presence  
