@@ -23,4 +23,4 @@
 ---
 
 ### 📊 Presence  
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=false&hide_title=true&hide_rank=true&hide=prs,issues,contribs&count_private=true&theme=transparent)  
+![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhostMate114&show_icons=false&hide_title=true&hide_rank=true&hide=prs,issues,contribs&count_private=true&theme=transparent)  
