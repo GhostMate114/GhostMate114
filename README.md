@@ -18,7 +18,7 @@
 
 ### 🔧 Core Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode,blender,ableton&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,flstudio,mineimator,css,git,github,vscode,blender,ableton&perline=6" />
 </p>
 
 ---
