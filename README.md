@@ -1,33 +1,63 @@
-# Zeyad 
+# ⚡ Zeyad  
 
 > *"To create from nothing."*  
 
 ---
 
-### 🎓 About  
-- Computer Science student at **Zewail University of Science and Technology**  
-- Currently focused on **Java** and software foundations  
-- I build, I edit, I animate, I compose - all under the same pursuit: **creation**  
+### 👤 About  
+🎓 **Computer Science @ Zewail University of Science and Technology**  
+💻 Focused on **Java**, problem-solving & software design  
+🎨 Creator across **music, animation, and editing** — all bound by one goal: *creation itself.*  
 
 ---
 
-### 🛠 Areas of Work  
-- **Programming** – Java, problem-solving 
-- **Artistic Expression** – Animation, music production, editing  
-- **Exploration** – Always learning, always refining  
+### 🧭 Mission  
+> **Where nothing stood, something timeless shall.**
 
 ---
 
-### 📌 Mission    
-**Where nothing stood, something timeless shall.**  
+### 🔧 Core Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode,blender,ableton&perline=6" />
+</p>
+
 ---
 
-### 📊 Presence  
-![Stats](https://github-readme-stats.vercel.app/api?username=ZeyadYasser114&show_icons=false&hide_title=true&hide_rank=true&hide=prs,issues,contribs&count_private=true&theme=transparent)
+### 🌌 Areas of Work  
+- 🧠 **Programming** – Java, logic design, and systems thinking  
+- 🎬 **Artistic Expression** – Visual storytelling, sound design, and creative direction  
+- 🌱 **Exploration** – Always learning, refining, and reinventing  
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadYasser114&layout=compact&theme=transparent&hide_title=true)
+---
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeyadYasser114&theme=github-compact&hide_border=true)
+### 🧩 My Vision  
+> “A developer who creates like an artist,  
+> and an artist who thinks like a developer.”
 
+---
 
+### 📈 Insights  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadYasser114&theme=transparent&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadYasser114&show_icons=true&hide_title=true&theme=transparent&hide_border=true" width="49%"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadYasser114&layout=compact&theme=transparent&hide_title=true&hide_border=true" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeyadYasser114&theme=github-compact&hide_border=true" width="98%"/>
+</p>
+
+---
+
+### 💬 Let’s Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/zeyadyasser" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://www.youtube.com/@merakistudios" target="_blank"><img src="https://skillicons.dev/icons?i=youtube"/></a>
+  <a href="mailto:zeyadyasser114@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with intention. Driven by curiosity.</sub>
+</p>
