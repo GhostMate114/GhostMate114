@@ -1,4 +1,4 @@
-# ⚡ Zeyad  
+# 𝒵𝑒𝓎𝒶𝒹 𝒴𝒶𝓈𝓈𝑒𝓇
 
 > *"To create from nothing."*  
 
@@ -18,7 +18,8 @@
 
 ### 🔧 Core Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode,blender,ableton&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,python,github,vscode,blender,&perline=7" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flstudio/flstudio-original.svg" width="48" height="48" alt="FL Studio" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Mine-imator_Logo.png" width="48" height="48" alt="Mine-imator" />
 </p>
@@ -26,7 +27,7 @@
 ---
 
 ### 🌌 Areas of Work  
-- 🧠 **Programming** – Java, logic design, and systems thinking  
+- 🧠 **Programming** – 
 - 🎬 **Artistic Expression** – Animation, sound design, editing, and creative direction  
 - 🌱 **Exploration** – Always learning, refining, and reinventing  
 
