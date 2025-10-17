@@ -16,12 +16,11 @@
 
 ---
 
-### 🔧 Core Stack  
+### 🔧 Core Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,github,vscode,blender,&perline=7" />
-  
+  <img src="https://skillicons.dev/icons?i=java,python,github,vscode,blender&perline=6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flstudio/flstudio-original.svg" width="48" height="48" alt="FL Studio" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Mine-imator_Logo.png" width="48" height="48" alt="Mine-imator" />
+  <img src="https://raw.githubusercontent.com/ZeyadYasser114/assets/main/mineimator.png" width="48" height="48" alt="Mine-imator" />
 </p>
 
 ---
@@ -48,15 +47,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadYasser114&layout=compact&theme=transparent&hide_title=true&hide_border=true" width="49%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeyadYasser114&theme=github-compact&hide_border=true" width="98%"/>
-</p>
-
----
-
-### 💬 Let’s Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/zeyadyasser" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://www.youtube.com/@merakistudios" target="_blank"><img src="https://skillicons.dev/icons?i=youtube"/></a>
-  <a href="mailto:zeyadyasser114@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
