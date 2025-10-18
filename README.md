@@ -19,8 +19,8 @@
 ### 🔧 Core Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,github,vscode,blender&perline=6" />
-  <img src="https://github.com/ZeyadYasser114/ZeyadYasser114/blob/main/flstudio.webp?raw=true" width="48" height="48" alt="FL Studio" />
-  <img src="https://raw.githubusercontent.com/ZeyadYasser114/assets/main/mineimator.png" width="48" height="48" alt="Mine-imator" />
+  <img src="your_uploaded_fl_studio_image_url_here" width="48" height="48" alt="FL Studio" />
+  <img src="generated_mineimator_image_url_here" width="48" height="48" alt="Mine-imator" />
 </p>
 
 ---
