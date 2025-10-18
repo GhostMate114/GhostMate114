@@ -24,7 +24,7 @@
 ---
 
 ### 🌌 Areas of Work  
-- 🧠 **Programming** – 
+- 🧠 **Programming** – Building a foundation in software development, with a focus on applications and games.
 - 🎬 **Artistic Expression** – Animation, sound design, editing, and creative direction  
 - 🌱 **Exploration** – Always learning, refining, and reinventing  
 
